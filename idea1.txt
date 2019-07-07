@@ -1,0 +1,9 @@
+my main Idea regarding AI is that understanding starts from the 3D world.
+
+you can see a baby learn first the object in the physical work how they react and then try to construct 3d model of the physical world in their mind.
+this has strong connection to NLP where each noun should represent a real physical object (kids don't understand the more spiritual meaning of nouns, later nouns can be also represented by actions and then these spiritual meaning will have an affect).
+so the first intend and learn of the computer should be focus on objects this is the easy way to approach this.
+later on there will come 4D where time also play a part, then links to actions are much more apprehended.
+for example if you will say a simple sentence like "the man went to the store" the computer will draw a man any abstract model of a man (but in 3d representation) and it should "imagine" that man walking which is doing the simple movement of his legs that re-ordering his place from point A (anyway - hasn't been mentioned) to a store, which is also a noun that can be drew.
+I still not sure what the representation should be like.
+can it be a point cloud? which is much less intuitive to humans or should it be something like the triangle surface which is a bit more intuitively 
