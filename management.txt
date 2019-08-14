@@ -1,0 +1,11 @@
+needs to be done:
+learning:
+1. open cv emphasizing 3d graphics
+2.1 read articles and paper about 3d reconstruction.
+2.2 a little use of blender (do I need to get to the level of trying to redo 3d scene from 2d image?) - keep blender aside for the moment.
+3. have some fun with nlp including learning how to obtain a page from a web and parsing the html of it and so on..
+4. neural network again..
+5. 3d classification?
+6. keep with writing ideas and maybe try to break down so we will have some pieces that can be done (small ones).
+
+
