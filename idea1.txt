@@ -7,3 +7,5 @@ later on there will come 4D where time also play a part, then links to actions a
 for example if you will say a simple sentence like "the man went to the store" the computer will draw a man any abstract model of a man (but in 3d representation) and it should "imagine" that man walking which is doing the simple movement of his legs that re-ordering his place from point A (anyway - hasn't been mentioned) to a store, which is also a noun that can be drew.
 I still not sure what the representation should be like.
 can it be a point cloud? which is much less intuitive to humans or should it be something like the triangle surface which is a bit more intuitively 
+
+The easiest model to start with is the 3d matrix representation, starting a binary values, where a true represent that there is an ojbect and false represent there is none - AKA voxel.
